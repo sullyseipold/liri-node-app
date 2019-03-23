@@ -53,6 +53,6 @@ Supported commands and functions:
 ### Demonstration Video
 
 * click the link below to view a demonstration of liri-node-app functionality.
-`https://drive.google.com/file/d/1JI4ivjAF_8VNdGQ8y7k-EqBtITbhBzwz/view`
+<https://drive.google.com/file/d/1JI4ivjAF_8VNdGQ8y7k-EqBtITbhBzwz/view>
 
 
